@@ -1,0 +1,8 @@
+name: Nautilus
+version: ${project.version}
+main: org.jacob.spigot.plugins.nautilus.Nautilus
+api-version: 1.16
+description: 2xjtn
+commands:
+  files:
+    description: Explore your files inside a minecraft gui!
